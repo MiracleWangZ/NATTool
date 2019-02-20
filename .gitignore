@@ -3,3 +3,6 @@
 ################################################################################
 
 /NATTool/NATTool/bin/Debug
+/NATTool/NATTool/obj
+/NATTool/NATTool/bin/Release
+/NATTool/.vs/NATTool/v15
