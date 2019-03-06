@@ -40,7 +40,7 @@ namespace NATTool
             exe.StartInfo.FileName = curDir + @"\ding.exe";
             exe.StartInfo.Arguments = "-config=./ding.cfg -subdomain=" + domainPrefix + " " + port + "";
             exe.Start();
-            txt_From.Text = "http://"+domainPrefix+".vaiwan.com:8081";
+            txt_From.Text = "http://"+domainPrefix+".vaiwan.com";
             txt_To.Text = "http://127.0.0.1:"+port; 
         }
         private void KillProc(string strProcName)
