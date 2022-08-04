@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27428.2015
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NATTool", "NATTool\NATTool.csproj", "{630AA387-3B22-458A-9A7C-7EA338F76FA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NATTool2", "NATTool2\NATTool2.csproj", "{EF2D687B-2D5D-4B9A-ABD8-99999EAC3BC2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{630AA387-3B22-458A-9A7C-7EA338F76FA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{630AA387-3B22-458A-9A7C-7EA338F76FA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{630AA387-3B22-458A-9A7C-7EA338F76FA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF2D687B-2D5D-4B9A-ABD8-99999EAC3BC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF2D687B-2D5D-4B9A-ABD8-99999EAC3BC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF2D687B-2D5D-4B9A-ABD8-99999EAC3BC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF2D687B-2D5D-4B9A-ABD8-99999EAC3BC2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
